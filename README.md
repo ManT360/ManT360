@@ -6,4 +6,4 @@ Graduate with a Diploma in Information Technology, complemented by [Google Data 
 - 🔭 I’m currently doing my Advanced Diploma In Information Technology
 - 📫 You can reach me on [Linkdin](https://linkedin.com/in/tshenolo-mokgoatjane-ab652a329) and via email mtntshenolo@gmail.com
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManT360&show_icons=true&theme=radical)
